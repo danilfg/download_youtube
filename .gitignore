@@ -1,0 +1,9 @@
+.DS_Store
+.git
+.idea
+.venv
+/ffmpeg_bin
+*.mp4
+*.ytdl
+*.part
+cookies.txt

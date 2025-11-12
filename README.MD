@@ -1,3 +1,6 @@
+## 📝 Автор
+
+**Даниил Николаев**
 # 🎥 YouTube Playlist Downloader
 
 Скрипт для скачивания видео и плейлистов с YouTube с поддержкой cookies и расшифровкой `n-signature` через Node.js.  
@@ -124,17 +127,3 @@ https://www.youtube.com/playlist?list=PL8VxSMvNXhva7R8YshmJmkpSpMx_CgB-C
 | Linux (Debian, Ubuntu, Arch) | ✅         |
 | Windows 10/11                | ✅         |
 
----
-
-## 📝 Автор
-
-**Даниил Николаев**
-Senior QA Automation Engineer / Mentor
-[https://github.com/danilfg](https://github.com/danilfg)
-
-```
-
----
-
-Хочешь, я сразу добавлю в `requirements.txt` минимальный набор зависимостей (`yt-dlp`, `shutilwhich`, `requests` и т.д.) в корректном виде для PyPI?
-```
